@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar";
 import Play from "../components/Play";
-import Vid from "../components/vid";
+import Vid from "../components/Vid";
 import TheGame from "../components/TheGame";
 import Grid from "../components/Grid";
 import Media from "../components/Media";
