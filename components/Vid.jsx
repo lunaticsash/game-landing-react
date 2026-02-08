@@ -12,7 +12,7 @@ const VideoHero = () => {
         preload="auto"
         className="absolute inset-0 w-full h-full object-cover"
       >
-        <source src="/videos/bgvid.webm" type="video/webm" />
+        <source src="public/bgvid.webm" type="video/webm" />
         Your browser does not support the video tag.
       </video>
 
